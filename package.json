@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guideline-io/react-js-component.git"
+    "url": "git+https://github.com/guideline-io/react-promise-component.git"
   },
   "keywords": [
     "react",
@@ -17,12 +17,12 @@
     "react.js",
     "ajax"
   ],
-  "author": "Mike Nelson <mike@mnelson.io> (http://mnelson.io/)",
+  "author": "Guideline Technologies <dev@guideline.com> (https://www.guideline.com)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/guideline-io/react-js-component/issues"
+    "url": "https://github.com/guideline-io/react-promise-component/issues"
   },
-  "homepage": "https://github.com/guideline-io/react-js-component#readme",
+  "homepage": "https://github.com/guideline-io/react-promise-component#readme",
   "devDependencies": {
     "react": "^0.14.7"
   }
