@@ -1,6 +1,6 @@
 # React Promise Component
 
-A component which enables its function body to be invoked only once a provided promise resolves.
+A component which enables its function body to be invoked only once the provided promise resolves.
 
 ```jsx
 let promise = fetchUserFromStoreOrServer();
